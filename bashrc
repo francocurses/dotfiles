@@ -1,4 +1,4 @@
-# aliases
+# aliasesa
 alias g=git
 alias q=exit
 alias r=reset
